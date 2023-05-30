@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Performance Task in Ict by Goup 3</title>
+</head>
+
+<body>
+	<h1>ICT</h1>
+	<h2>What is the Purpose of this Task?</h2>
+	<p> The purpose of this task is for us to learn how to 
+	    upload an html document online</p>
+</body>
+</html>
+
